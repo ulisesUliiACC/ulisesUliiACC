@@ -16,7 +16,7 @@
 -📫 How to reach me ulisesuliiuwu@gmail.com
 
 <div align="left">
-    <h3>🔨Idiomas y herramientas:</h3>
+    <h3>🔨Hamientas:</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel"
     width="40" height="40">&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react"
